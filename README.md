@@ -73,6 +73,24 @@ Prime factors are: \[3, 67, 199]
 \- `README.md` — this file
 
 
+## 🧩 Interactive Version: Choose Step by Step
+
+In addition to the standard prime factorization, this project includes an interactive mode.
+
+After each found prime factor, the program asks the user whether to continue or stop.
+
+This allows the user to step through the factorization process one factor at a time.
+
+### Example:
+
+Give a number: 60
+Do you want to continue? yes
+Actual prime list is: [2]
+Do you want to continue? yes
+Actual prime list is: [2, 2]
+Do you want to continue? no
+Prime factors are: [2, 2]
+
 
 ---
 
